@@ -1,0 +1,2 @@
+
+print("✅ Tout fonctionne Ishak")
